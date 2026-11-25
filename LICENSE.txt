@@ -1,0 +1,50 @@
+PROPRIETARY SOFTWARE LICENSE AGREEMENT (ALL RIGHTS RESERVED)
+Copyright (c) 2026 Michalovec (smutnejmichal). All Rights Reserved.
+
+IMPORTANT – READ CAREFULLY:
+This Software (including all compiled JAR files, source code, 3D models, textures,
+configurations, documentation, and related assets) is protected by copyright laws
+and international copyright treaties, as well as other intellectual property laws.
+The Software is licensed, NOT sold.
+
+1. GRANT OF LICENSE
+Subject to full payment of the applicable license fee and strict compliance with this
+Agreement, the Licensor grants you a limited, non-exclusive, non-transferable,
+non-sublicensable, revocable license to install and run the Software solely on the
+number of server IP addresses ("IP Slots") associated with your valid License Key.
+
+2. STRICT PROHIBITIONS
+You are strictly prohibited from, and shall not permit any third party to:
+  a) Copy, reproduce, redistribute, publish, upload, leak, or share the Software
+     (in whole or in part) on any website, Discord server, forum, file-sharing
+     service, or to any unauthorized person;
+  b) Decompile, disassemble, reverse engineer, decrypt, or attempt to derive the
+     source code, algorithms, or cryptographic keys of the Software, except to the
+     strict minimum extent permitted by mandatory applicable law;
+  c) Modify, adapt, translate, patch, crack, bypass, or remove any licensing checks,
+     digital signatures, obfuscation, watermarks, or copyright notices;
+  d) Create derivative works based upon the Software or reuse any part of its code,
+     logic, or assets in another plugin or project;
+  e) Rent, lease, lend, resell, sublicense, or transfer your License Key or access
+     to the Software to another person or entity (including server sales without
+     written consent of the Licensor).
+
+3. INTELLECTUAL PROPERTY & OWNERSHIP
+All title, ownership rights, and intellectual property rights in and to the Software
+remain exclusively with the Licensor. Unauthorized copying, decompilation, cracking,
+or redistribution constitutes copyright infringement and breach of contract, and may
+result in immediate license revocation without refund, platform bans, DMCA takedowns,
+and civil and/or criminal liability.
+
+4. TERMINATION
+This license is effective until terminated. Your rights under this license will
+terminate automatically without notice if you fail to comply with any term of this
+Agreement. Upon termination, you must immediately destroy all copies of the Software
+in your possession.
+
+5. DISCLAIMER OF WARRANTY & LIMITATION OF LIABILITY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
+IN NO EVENT SHALL THE LICENSOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY
+ARISING FROM THE USE OF THE SOFTWARE.
+
+Contact / GitHub: https://github.com/smutnejmichal
